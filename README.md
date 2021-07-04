@@ -1,1 +1,1 @@
-# NodeJS-DynomoDB
+# NodeJS-DynamoDB
